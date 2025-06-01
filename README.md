@@ -52,7 +52,9 @@ Diese Datei soll dir als Nachschlagewerk und Lernhilfe für die Arbeit mit Git u
 | `git push --set-upstream origin <branch>` | Neuen Branch zu GitHub pushen |
 | `git fetch` | Holt alle Änderungen vom Remote, ohne sie einzufügen |
 
----## :handshake: Zusammenarbeit im Team
+---
+
+## :handshake: Zusammenarbeit im Team
 
 - Arbeitet **nicht im Browser**, sondern lokal.
 - Nutzt **eigene Branches** für Änderungen.
@@ -61,5 +63,23 @@ Diese Datei soll dir als Nachschlagewerk und Lernhilfe für die Arbeit mit Git u
 - Wenn ihr mit GitHub arbeitet:
   - Forkt ggf. das Repo (wenn nötig)
   - Erstellt einen Pull Request, wenn ihr fertig seid
+
+---
+
+## 📝 Markdown – kurz erklärt
+
+Markdown ist eine einfache Auszeichnungssprache für Textformatierung. Wichtig für die `README.md`.
+
+### Beispiele:
+
+```markdown
+# Überschrift 1
+## Überschrift 2
+**fett**
+*kursiv*
+- Liste
+1. Nummerierte Liste
+[Linktext](https://example.com)
+`Code`
 
 ---
