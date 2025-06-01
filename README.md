@@ -72,14 +72,48 @@ Markdown ist eine einfache Auszeichnungssprache für Textformatierung. Wichtig f
 
 ### Beispiele:
 
-```markdown
+# Überschriften
+
 # Überschrift 1
 ## Überschrift 2
-**fett**
-*kursiv*
-- Liste
-1. Nummerierte Liste
-[Mehr Infos zu Markdown](https://oliverbrux.de/blog/markdown-was-ist-das-eigentlich)
-`Code`
+### Überschrift 3
 
 ---
+
+# Textformatierung
+
+**Fett**: `**fett**`  
+*Kursiv*: `*kursiv*`  
+***Fett und kursiv***: `***fett und kursiv***`  
+~~Durchgestrichen~~: `~~durchgestrichen~~`
+
+---
+
+# Listen
+
+- Ungeordnete Liste (Aufzählung)  
+  - Unterpunkt  
+  - Noch ein Unterpunkt
+
+1. Nummerierte Liste  
+2. Punkt 2  
+3. Punkt 3
+
+---
+
+# Links und Bilder
+
+[Mehr Infos zu Markdown](https://oliverbrux.de/blog/markdown-was-ist-das-eigentlich)  
+
+![Alternativtext](https://via.placeholder.com/150)  <!-- Beispielbild -->
+
+---
+
+# Code
+
+Inline-Code: `` `Code` ``  
+
+Codeblock (mit Syntax-Highlighting):
+
+```bash
+echo "Hallo Welt"
