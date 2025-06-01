@@ -79,7 +79,7 @@ Markdown ist eine einfache Auszeichnungssprache für Textformatierung. Wichtig f
 *kursiv*
 - Liste
 1. Nummerierte Liste
-[Linktext](https://example.com)
+[Mehr Infos zu Markdown](https://oliverbrux.de/blog/markdown-was-ist-das-eigentlich)
 `Code`
 
 ---
