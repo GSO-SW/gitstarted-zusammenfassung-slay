@@ -39,3 +39,16 @@ Diese Datei soll dir als Nachschlagewerk und Lernhilfe für die Arbeit mit Git u
 | `git merge --abort` | Merge abbrechen (bei Konflikten) |
 
 ---
+
+## 🌍 Arbeit mit Remote-Repositories (GitHub)
+
+| Befehl | Beschreibung |
+|--------|--------------|
+| `git clone <url>` | Repository von GitHub klonen |
+| `git remote -v` | Zeigt verbundene Remotes (z. B. origin) |
+| `git push` | Änderungen hochladen |
+| `git pull` | Änderungen vom Server holen |
+| `git push --set-upstream origin <branch>` | Neuen Branch zu GitHub pushen |
+| `git fetch` | Holt alle Änderungen vom Remote, ohne sie einzufügen |
+
+---
