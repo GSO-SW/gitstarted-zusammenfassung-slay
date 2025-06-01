@@ -105,7 +105,7 @@ Markdown ist eine einfache Auszeichnungssprache für Textformatierung. Wichtig f
 
 [Mehr Infos zu Markdown](https://oliverbrux.de/blog/markdown-was-ist-das-eigentlich)  
 
-![Alternativtext](https://via.placeholder.com/150)  <!-- Beispielbild -->
+
 
 ---
 
@@ -116,4 +116,4 @@ Inline-Code: `` `Code` ``
 Codeblock (mit Syntax-Highlighting):
 
 ```bash
-echo "Hallo Welt"
+echo "Test"
