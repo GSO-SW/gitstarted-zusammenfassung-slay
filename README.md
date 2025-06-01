@@ -56,13 +56,13 @@ Diese Datei soll dir als Nachschlagewerk und Lernhilfe für die Arbeit mit Git u
 
 ## :handshake: Zusammenarbeit im Team
 
-- Arbeitet **nicht im Browser**, sondern lokal.
-- Nutzt **eigene Branches** für Änderungen.
-- Führt **häufige Commits** durch.
-- Nutzt regelmäßig `git pull`, um auf dem neuesten Stand zu bleiben.
-- Wenn ihr mit GitHub arbeitet:
+- Arbeiten **nicht im Browser**, sondern lokal.
+-  **eigene Branches** für Änderungen nutzen
+-  **häufige Commits** durch führen.
+- Regelmäßig `git pull`benutzen, um auf dem neuesten Stand zu bleiben.
+- Wenn mit GitHub gearbeitet wird:
   - Forkt ggf. das Repo (wenn nötig)
-  - Erstellt einen Pull Request, wenn ihr fertig seid
+  -  einen Pull Request erstellen, wenn man fertig ist
 
 ---
 
@@ -79,6 +79,7 @@ Markdown ist eine einfache Auszeichnungssprache für Textformatierung. Wichtig f
 ### Überschrift 3
 
 ---
+
 
 # Textformatierung
 
@@ -117,3 +118,33 @@ Codeblock (mit Syntax-Highlighting):
 
 ```bash
 echo "Test"
+
+---
+
+## 🧪 Typische Abläufe im Alltag mit Git
+
+---
+
+## 🔁 Lokales Arbeiten
+
+```bash
+# Repository klonen
+git clone <repo-url>
+
+# In den Projektordner wechseln
+cd projektordner
+
+# Neuen Branch erstellen und wechseln
+git checkout -b mein-branch
+
+# Änderungen machen (Dateien bearbeiten)
+
+# Änderungen zur Staging-Area hinzufügen
+git add .
+
+# Änderungen committen
+git commit -m "Änderung"
+
+# Neuen Branch zum Remote-Repository pushen und Tracking einrichten
+git push --set-upstream origin mein-branch
+
