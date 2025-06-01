@@ -51,4 +51,14 @@ Diese Datei soll dir als Nachschlagewerk und Lernhilfe für die Arbeit mit Git u
 | `git push --set-upstream origin <branch>` | Neuen Branch zu GitHub pushen |
 | `git fetch` | Holt alle Änderungen vom Remote, ohne sie einzufügen |
 
+---## :handshake: Zusammenarbeit im Team
+
+- Arbeitet **nicht im Browser**, sondern lokal.
+- Nutzt **eigene Branches** für Änderungen.
+- Führt **häufige Commits** durch.
+- Nutzt regelmäßig `git pull`, um auf dem neuesten Stand zu bleiben.
+- Wenn ihr mit GitHub arbeitet:
+  - Forkt ggf. das Repo (wenn nötig)
+  - Erstellt einen Pull Request, wenn ihr fertig seid
+
 ---
