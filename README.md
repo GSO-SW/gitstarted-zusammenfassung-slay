@@ -1,13 +1,6 @@
-🔧 Git – Lokal arbeiten
-git init: Neues lokales Repo erstellen
+# 🧠 Git & GitHub – Zusammenfassung und Nachschlagewerk
 
-git clone <URL>: Remote-Repo lokal klonen
+Diese Datei soll dir als Nachschlagewerk und Lernhilfe für die Arbeit mit Git und GitHub dienen. Sie enthält die wichtigsten Begriffe, Befehle und Arbeitsweisen für den Programmieralltag und die Zusammenarbeit im Team.🔧 Git – Lokal arbeiten
 
-git status: Zeigt aktuellen Zustand
 
-git add <datei>: Datei zur Staging-Area hinzufügen
-
-git commit -m "Text": Änderungen lokal speichern
-
-git log, git diff: Verlauf & Änderungen anzeigen
 
