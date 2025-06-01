@@ -118,7 +118,7 @@ Codeblock (mit Syntax-Highlighting):
 
 ```bash
 echo "Test"
-
+ ```
 ---
 
 ## 🧪 Typische Abläufe im Alltag mit Git
